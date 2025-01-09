@@ -3,7 +3,7 @@
 ![badge-Android](https://img.shields.io/badge/Platform-Android-brightgreen)
 [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
 
-PokeApp built with Jetpack Compose, Hilt, Coroutines, Flow, Room and ViewModel based on MVVM architecture [PokeApi](https://pokeapi.co/). </br>
+Built with Jetpack Compose, Coroutines, Room and ViewModel based on MVVM architecture. </br>
 
 # Main Features
 - AppScaner
